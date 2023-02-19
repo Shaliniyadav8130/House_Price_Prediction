@@ -9,4 +9,4 @@ I made a Machine Learning model in which diffrent algorithms are used for predic
 <h4>4. Total Square Feet</h4>
 <h3>Dependent Variable</h3>
 <h4> Price </h4>
-![Screenshot (128)](https://user-images.githubusercontent.com/94459368/219957665-ecb7741f-0aae-402f-a300-95a8440bc017.png)
+<img src="https://github.com/Shaliniyadav8130/House_Price_Prediction/blob/prediction/client/house.jpeg"/>
